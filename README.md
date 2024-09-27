@@ -2,6 +2,6 @@ Created this simple terraria mod for a no-hit playthrough with friends, but ever
 
 C#
 
-In reality it isn't a true no-hit mod, it just boosts enemy damage, but most dodge accessories still work
+In reality it isn't a true no-hit mod, it just boosts enemy damage to kill in one hit, but most dodge accessories still work
 
 Still WIP with many features and improvement, maybe one day.
