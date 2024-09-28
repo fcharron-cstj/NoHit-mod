@@ -1,4 +1,4 @@
-Created this simple terraria mod for a no-hit playthrough with friends, but every no-hit mod out there broke in multiplayer, so I wrote my own.
+Created this simple terraria mod for a no-hit playthrough with friends, because every no-hit mod out there broke in multiplayer, so I wrote my own.
 
 C#
 
